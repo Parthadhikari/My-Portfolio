@@ -28,12 +28,12 @@ const Sidebar =()=> (
 
         <ul>
             <li>
-                <a target='_blank' rel='noreferrer' href='https://www.linkedin.com/in/parth-adhikari18122000/'>
+                <a target='_blank' rel='noreferrer' href=' https://www.linkedin.com/in/parthadhikari/ '>
                     <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
                 </a>
             </li>
             <li>
-                <a target='_blank' rel='noreferrer' href='https://github.com/Parthadhikari'>
+                <a target='_blank' rel='noreferrer' href='https://github.com/parthy007'>
                     <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
                 </a>
             </li>
